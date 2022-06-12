@@ -9,7 +9,6 @@
 // @grant        none
 // @license 	 MIT
 // @collaborator Basis of Antonio Carrizo
-// @icon https://i.yapx.ru/RMTMT.png
 // @copyright 2022,
 // ==/UserScript==
 
