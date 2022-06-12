@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Скрипт для модераторов | ПК
+// @name         Moders PC
 // @namespace    https://forum.blackrussia.online
 // @version      4.0
 // @description  Comfort moderation
