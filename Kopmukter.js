@@ -1,16 +1,17 @@
 // ==UserScript==
+// @name         BR | ADM PC
 // @namespace    https://forum.blackrussia.online
-// @name         Moders PC
-// @version      4.0
-// @description  Comfort moderation
-// @author       M. Pearson
+// @version      1.0.5.10
+// @description  try to take over the world!
+// @author       Pearson
 // @match        https://forum.blackrussia.online/index.php?threads/*
 // @include      https://forum.blackrussia.online/index.php?threads/
 // @grant        none
 // @license 	 MIT
-// @collaborator Basis of Antonio Carrizo
-// @icon https://i.yapx.ru/RMTMT.png
-// @copyright 2022,
+// @collaborator Pearson
+// @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
+// @copyright 2021, Carrizo (https://openuserjs.org/users/Carrizo)
+// @updateURL https://openuserjs.org/meta/Carrizo/BR_ADM_Script_for_Forum.meta.js
 // ==/UserScript==
 
 (function () {
