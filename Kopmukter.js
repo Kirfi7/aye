@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Moders PC
 // @namespace    https://forum.blackrussia.online
+// @name         Moders PC
 // @version      4.0
 // @description  Comfort moderation
 // @author       M. Pearson
